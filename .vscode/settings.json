@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Moonlight II",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

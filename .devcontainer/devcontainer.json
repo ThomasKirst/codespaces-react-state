@@ -1,0 +1,11 @@
+{
+  "containerEnv": {
+    "BROWSER": "none",
+    "WDS_SOCKET_PORT": "0"
+  },
+  "extensions": [
+    "atomiks.moonlight",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
