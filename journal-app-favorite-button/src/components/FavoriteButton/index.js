@@ -5,7 +5,7 @@ import { ReactComponent as StarFilled } from "./star-filled.svg";
 import { ReactComponent as Star } from "./star.svg";
 
 function FavoriteButton() {
-  const [isFavorite, setIsFavorite] = useState();
+  const [isFavorite, setIsFavorite] = useState(false);
 
   return (
     <button
