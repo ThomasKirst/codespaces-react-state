@@ -17,10 +17,10 @@ export default function App() {
     <div className="container">
       <h1>{count}</h1>
       <div className="button-container">
-        <button type="button" onClick={() => subtract()}>
+        <button type="button" onClick={subtract}>
           -
         </button>
-        <button type="button" onClick={() => add()}>
+        <button type="button" onClick={add}>
           +
         </button>
       </div>
